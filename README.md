@@ -1,6 +1,8 @@
 # Welcome to your CDK TypeScript project!
 
-This is a blank project for TypeScript development with CDK.
+This is a CRUD APP using TypeScript development with CDK.
+
+This includes 3-lambda functions, API-Gateway, Dynamodb.
 
 The `cdk.json` file tells the CDK Toolkit how to execute your app.
 
